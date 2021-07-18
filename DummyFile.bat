@@ -2,4 +2,5 @@
 TITLE Dummy File
 
 echo "THIS IS A DUMMY FILE"
+echo "THIS A NEW CHANGE FOR CR_0002"
 PAUSE
